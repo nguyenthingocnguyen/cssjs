@@ -20,10 +20,6 @@ document.oncopy = FSAddOriginalLink;
 
 
 
-MUON COPY THI VAO DAY : http://faceseo.vn/
-
-
-MUON COPY THI VAO DAY : http://faceseo.vn/
 
 
 
