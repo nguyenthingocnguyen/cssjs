@@ -2,7 +2,7 @@ function FSAddOriginalLink(){
     var body_element = document.getElementsByTagName('body')[0];
     var selection;
     selection = window.getSelection();
-    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://ngocnguyenreal.blogspot.com'>http://ngocnguyenreal.blogspot.com"+document.location.pathname+"</a>";
+    var pagelink = "<br/><br/>MUON COPY THI VAO DAY : <a href='http://https://ngocnguyenreal.blogspot.com/'>http://https://ngocnguyenreal.blogspot.com/"+document.location.pathname+"</a>";
     var copytext = pagelink;
     var newdiv = document.createElement('div');
     newdiv.style.position='absolute';
@@ -15,11 +15,3 @@ function FSAddOriginalLink(){
     },0);
 }
 document.oncopy = FSAddOriginalLink;
-
-
-
-
-
-
-
-
